@@ -11,7 +11,7 @@ This project implements a book assignment view for teachers, allowing them to se
 - **Material-UI**: For UI components.
 - **React**: As the frontend framework.
 - **TypeScript**: For type checking and improved code quality.
-- **react-infinite-scroll-component**: For implementing infinite scrolling in the book search results.
+- **react-infinite-scroll-component**: For implementing infinite scrolling in the reading list.
 - **localStorage**: For persisting the reading list.
 
 ## Features
@@ -19,7 +19,7 @@ This project implements a book assignment view for teachers, allowing them to se
 - **Search Bar**: Allows users to search for books by title.
 - **Search Results**: Displays the book image, title, author, and a button to add the book to the reading list.
 - **Reading List**: Displays all the books that the teacher has added.
-- **Remove Book**: Allows users to remove a book from the reading list by clicking the book icon.
+- **Remove Book**: Allows users to remove a book from the reading list by clicking the icon.
 
 ## Executing Program
 
